@@ -1,0 +1,23 @@
+{
+  "name": "tailwind_css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/tailwind_css.git"
+  },
+  "keywords": [],
+  "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/tailwind_css/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/tailwind_css#readme",
+  "dependencies": {
+    "tailwindcss": "1.5.2"
+  }
+}
